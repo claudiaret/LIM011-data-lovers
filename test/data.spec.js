@@ -65,6 +65,7 @@ describe('typeFilter', () => {
 });
 
 // TEST FILTRO POR DEBILIDADES
+
 describe('weaknessFilter', () => {
   it('debería ser una función', () => {
     expect(typeof weaknessFilter).toBe('function');
