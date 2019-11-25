@@ -110,7 +110,7 @@ y de equipo.
 - [ ] Entender la diferencia entre expression y statements.
 - [ ] Utilizar funciones (parámetros | argumentos | valor de retorno).
 - [ ] Entender la diferencia entre tipos de datos atómicos y estructurados.
-- [ ] Utilizar ES Modules (`import` | `export`).
+- [x] Utilizar ES Modules (`import` | `export`).
 
 ### Pruebas Unitarias (_testing_)
 - [ ] Testear funciones (funciones puras).
