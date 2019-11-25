@@ -24,6 +24,7 @@ export const orderData = (POKEMON, order) => {
       }
     });
   }
+
   if (order === 'descendant-za') {
     pokemonOrder = POKEMON.sort((a, b) => {
       if (a.name < b.name) {
