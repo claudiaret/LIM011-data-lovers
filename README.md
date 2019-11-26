@@ -83,22 +83,22 @@ y de equipo.
 
 ### UX
 
-- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener _feedback_ e iterar.
-- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
-- [ ] Planear y ejecutar _tests_ de usabilidad.
+- [x] Diseñar la aplicación pensando y entendiendo al usuario.
+- [x] Crear prototipos para obtener _feedback_ e iterar.
+- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [x] Planear y ejecutar _tests_ de usabilidad.
 
 ### HTML y CSS
 
-- [ ] Entender y reconocer por qué es importante el HTML semántico.
-- [ ] Identificar y entender tipos de selectores en CSS.
-- [ ] Entender como funciona `flexbox` en CSS.
-- [ ] Construir tu aplicación respetando el diseño planeado (maquetación).
+- [x] Entender y reconocer por qué es importante el HTML semántico.
+- [x] Identificar y entender tipos de selectores en CSS.
+- [x] Entender como funciona `flexbox` en CSS.
+- [x] Construir tu aplicación respetando el diseño planeado (maquetación).
 
 ### DOM
 
-- [ ] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
-- [ ] Manejar eventos del DOM. (addEventListener)
+- [x] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
+- [x] Manejar eventos del DOM. (addEventListener)
 - [ ] Manipular dinámicamente el DOM. (createElement, appendchild, innerHTML, value)
 
 ### Javascript
@@ -106,9 +106,9 @@ y de equipo.
 - [ ] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
 - [ ] Manipular objects (key | value).
 - [ ] Entender el uso de condicionales (`if-else` | `switch`).
-- [ ] Entender el uso de bucles (`for` | `forEach`).
+- [x] Entender el uso de bucles (`for` | `forEach`).
 - [ ] Entender la diferencia entre expression y statements.
-- [ ] Utilizar funciones (parámetros | argumentos | valor de retorno).
+- [x] Utilizar funciones (parámetros | argumentos | valor de retorno).
 - [ ] Entender la diferencia entre tipos de datos atómicos y estructurados.
 - [x] Utilizar ES Modules (`import` | `export`).
 
@@ -116,14 +116,14 @@ y de equipo.
 - [ ] Testear funciones (funciones puras).
 
 ### Git y GitHub
-- [ ] Ejecutar comandos de git (`add` | `commit` | `pull` | `status` | `push`).
-- [ ] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
+- [x] Ejecutar comandos de git (`add` | `commit` | `pull` | `status` | `push`).
+- [x] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
 - [ ] Colaborar en Github (pull requests).
 
 ### Buenas prácticas de desarrollo
-- [ ] Organizar y dividir el código en módulos (Modularización).
-- [ ] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
-- [ ] Utilizar linter para seguir buenas prácticas (ESLINT).
+- [x] Organizar y dividir el código en módulos (Modularización).
+- [x] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
+- [x] Utilizar linter para seguir buenas prácticas (ESLINT).
 
 ## 4. Consideraciones generales
 
@@ -187,6 +187,13 @@ Durante el reto deberás hacer _tests_ de usabilidad con distintos usuarios, y
 en base a los resultados, deberás iterar tus diseños. Cuéntanos
 qué problemas de usabilidad detectaste a través de los _tests_ y cómo los
 mejoraste en tu propuesta final.
+
+### Introspección de mis objetivos de aprendizaje
+
+* Sé lo que es, para qué sirve, su contexto y cómo se espera que funcione.
+* Lo hice en este proyecto y lo puedo explicar.
+* Lo puedo volver a hacer en otro contexto/proyecto diferente.
+* Qué propones para trabajar la siguiente semana.
 
 ### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
 
