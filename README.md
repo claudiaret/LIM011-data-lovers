@@ -6,7 +6,7 @@
 * [2. Problemática](#2-problemática)
 * [3. Web - Pokedata](#3-web-pokedata)
 * [4. Diseño de la Interfaz de Usuario](#4-diseño-de-la-interfaz-de-usuario)
-* [5. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
+* [5. Objetivos de aprendizaje](#5-objetivos-de-aprendizaje)
 
 ***
 
