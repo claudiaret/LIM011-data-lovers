@@ -32,7 +32,7 @@ y la interfaz construida en este [link](https://app.talento.laboratoria.la/profi
 
 ## 2. Problemática.
 
-El juego Pokémon Go, permite a los usuarios convertirse en maestros Pokémon, 
+La app Pokémon Go, permite a los usuarios convertirse en maestros Pokémon, 
 atrapar pokémon, combatir, competir en gimnasios Pokémon, etc. Para poder lograrlo 
 los usuarios necesitan tener información adicional, que el juego no brinda. Por ejemplo, 
 necesitan conocer cuáles son los Pokémon que tienen mayor tiempo de aparición, cuáles 
@@ -55,22 +55,22 @@ además de brindar información útil para el jugador, permitiéndoles:
 
 #### Historia 1:
 
-*"Yo como jugador de Pokémon GO, quiero poder ver a todos los personajes de 
+*"Yo, como jugador de Pokémon GO, quiero poder ver a todos los personajes de 
 la región de Kanto al momento de entrar a la web"*
 
 #### Historia 2:
 
-*"Yo como jugador de Pokémon GO, me gustaría ver cada pokemon a través de 
+*"Yo, como jugador de Pokémon GO, me gustaría ver cada pokemon a través de 
 un filtro de tipos y debilidades"*
 
 #### Historia 3
 
-*"Yo como jugador de Pokémon GO, quiero ver todos los pokemon y poder ordenarlos
+*"Yo, como jugador de Pokémon GO, quiero ver todos los pokemon y poder ordenarlos
 alfabéticamente o por número de caramelos"*
 
 #### Historia 4:
 
-*"Yo como jugador de Pokémon GO, quiero ver información de los pokémon que están
+*"Yo, como jugador de Pokémon GO, quiero ver información de los pokémon que están
 en el TOP 10 de frecuencia de aparición"*
 
 
