@@ -7,7 +7,7 @@
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Parte adicional-opcional (extensión)](#6-parte-adicional-opcional-extensión)
+* [6. Prototipos Baja y Alta Fidelidad](#6-prototipos-baja-y-alta-fidelidad)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
 
@@ -220,21 +220,50 @@ Tus _pruebas unitarias_ deben dar una cobertura del 70% de _statements_
 (_ramas_) del archivo `src/data.js` que contenga tus funciones y está detallado
 en la sección de [Consideraciones técnicas](#srcdatajs).
 
-## 6. Parte adicional-opcional (extensión)
+## 6. Prototipos Baja y Alta Fidelidad
 
-Si **terminaste** con todo lo anterior y te queda tiempo, intenta explorar y
-completar parte o todo de lo siguiente:
+**Primeros bocetos:**
 
-* En lugar de consumir la data estática brindada en este repositorio, puedes
-  consumir la data de forma dinámica, cargando un archivo JSON por medio de
-  `fetch`. La carpeta `src/data` contiene una versión `.js` y una `.json` de
-  de cada set datos.
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Prueba_Web1.jpg)
 
-* Agregarle a tu interfaz de usuario implementada visualizaciones gráficas. Para
-  ello te recomendamos explorar librerías de gráficas como [Chart.js](https://www.chartjs.org/)
-  o [Google Charts](https://developers.google.com/chart/).
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Prueba_Web2.jpg)
 
-* 100% Coverage de pruebas unitarias.
+Se hicieron pruebas con usuarios y tomando en cuenta las sugerencias, se realizaron cambios.
+
+**Prototipos baja fidelidad - Web.**
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Baja%20Fidelidad%20Web0.jpg)
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Baja%20Fidelidad%20Web2.jpg)
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Baja%20Fidelidad%20Web1.jpg)
+
+**Prototipos baja fidelidad - Móvil.**
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Baja%20Fidelidad%20Movil1.jpg)
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo_Baja%20Fidelidad%20Movil2.jpg)
+
+Se hicieron pruebas con usuarios y tomando en cuenta las sugerencias, se realizaron cambios.
+
+**Prototipo alta fidelidad - Web.**
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Historia-1.jpg)
+
+**Prototipo alta fidelidad - Móvil.**
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Prototipo%20de%20Alta%20Fidelidad%20-%20M%C3%B3vil.png)
+
+Se hicieron pruebas con usuarios y tomando en cuenta las sugerencias, se realizaron cambios.
+
+**Última versión web:**
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Version%20Web.jpg)
+
+**Última versión móvil:**
+
+![](https://raw.githubusercontent.com/claudiaret/LIM011-data-lovers/poke-rama/Prototipos%20Pokedata/Versi%C3%B3n%20M%C3%B3vil.png)
+
 
 ## 7. Consideraciones técnicas
 
